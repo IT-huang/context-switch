@@ -1,2 +1,2 @@
 # context-switch
-micro benchmark
+Ssee results in result.log for two versions.
